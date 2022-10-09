@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="TestScene.cpp" />
+    <ClCompile Include="VFXEdge.cpp" />
+    <ClCompile Include="VFXWater.cpp" />
+    <ClCompile Include="VFXMirror.cpp" />
+    <ClCompile Include="VFXBlur.cpp" />
+    <ClCompile Include="VFXFirePillar.cpp" />
+    <ClCompile Include="Fire.cpp" />
+    <ClCompile Include="Viewer3DEffects.cpp" />
+    <ClCompile Include="OkutyScene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TestScene.h" />
+    <ClInclude Include="VFXEdge.h" />
+    <ClInclude Include="VFXWater.h" />
+    <ClInclude Include="VFXMirror.h" />
+    <ClInclude Include="VFXBlur.h" />
+    <ClInclude Include="VFXFirePillar.h" />
+    <ClInclude Include="Fire.h" />
+    <ClInclude Include="Viewer3DEffects.h" />
+    <ClInclude Include="OkutyScene.h" />
+  </ItemGroup>
+</Project>
